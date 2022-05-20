@@ -16,9 +16,9 @@ function draw() {
     if (choice == 2)
         rect(50, 150, 150, 2);
     if (choice == 3)
-        rect(50, 200, 75, 2);
+        rect(50, 200, 150, 2);
     if (choice == 4)
-        rect(50, 250, 75, 2);
+        rect(50, 250, 150, 2);
     text("泡麵", 50, 50);
     text("Ubereats", 50, 100);
     text("Foodpanda", 50, 150);
